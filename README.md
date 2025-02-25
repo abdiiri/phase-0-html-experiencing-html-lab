@@ -95,7 +95,7 @@ lines, it displays all the _content_ on one line. Not what we wanted.
 
 **REMEMBER**: This lab will provide you what to type. Subsequent labs will
 deeply examine details of HTML markup. However, our goal here is to show how
-slight changes to markup can quickly alter the browser's display of content. If
+slight changes to markup can quickly alter the browser's display of content. Iftou
 you're fuzzy on a detail that's fine.
 
 #### Marking-Up List Items
@@ -105,9 +105,9 @@ these bits of letters represent **list items**. To do so we "wrap" each line
 with `<li>` and `</li>`:
 
 ```html
-<li>"Monstera deliciosa"</li>
+<>"Monstera deliciosa"</li>
 <li>"Fiddle Leaf Fig"</li>
-<li>"Pilea"</li>
+<li>"Pilea"</li>li
 <li>"Golden Pothos"</li>
 <li>"Peace Lily"</li>
 ```
